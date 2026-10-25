@@ -1,0 +1,11 @@
+Node,AU_pipeline1,AU_pipeline2,Delta_AU,Supported_P1,Supported_P2,Agreement
+1,0.7315,0.9324,0.2009,No,No,consistent
+2,0.9576,0.9816,0.024,Yes,Yes,consistent
+3,0.9623,0.9155,0.0468,Yes,No,FLIPPED
+4,0.9191,0.8939,0.0252,No,No,consistent
+5,0.8559,0.9586,0.1027,No,Yes,FLIPPED
+6,0.7979,0.9344,0.1365,No,No,consistent
+7,0.7683,0.7949,0.0266,No,No,consistent
+8,0.9117,0.7663,0.1454,No,No,consistent
+9,0.893,0.6858,0.2072,No,No,consistent
+10,1.0,1.0,0.0,Yes,Yes,consistent

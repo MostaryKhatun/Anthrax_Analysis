@@ -1,0 +1,17 @@
+Gene,Set,Mean_exposed,Mean_control,Cohens_d,Effect_size,Direction,t_test_P,t_test_FDR,Wilcoxon_P,Wilcoxon_FDR,Achieved_power,Adequate_power,N_per_group_for_80pct
+LOC101928461,Common DEG,0.852,-0.71,2.25,large,Up in exposed,0.004,0.039,0.030,0.081,0.91,Yes,5
+LINC00485,Common DEG,-0.843,0.702,-2.188,large,Down in exposed,0.005,0.039,0.009,0.046,0.894,Yes,5
+WNT6,Common DEG + hub,0.465,-0.387,2.068,large,Up in exposed,0.011,0.047,0.009,0.046,0.859,Yes,5
+RNF128,Common DEG,0.821,-0.684,2.056,large,Up in exposed,0.012,0.047,0.017,0.069,0.855,Yes,5
+LOC100506530,Common DEG,-0.831,0.692,-2.115,large,Down in exposed,0.015,0.048,0.009,0.046,0.874,Yes,5
+VWC2,Common DEG,-0.796,0.663,-1.922,large,Down in exposed,0.026,0.071,0.082,0.188,0.806,Yes,6
+GULP1,Common DEG,0.322,-0.268,1.526,large,Up in exposed,0.032,0.073,0.030,0.081,0.613,No,8
+CNTN4,Common DEG,0.344,-0.287,1.007,large,Up in exposed,0.122,0.244,0.126,0.251,0.318,No,17
+GATAD2A,Common DEG,-0.28,0.233,-0.935,large,Down in exposed,0.143,0.254,0.329,0.439,0.282,No,19
+TTC6,Common DEG,0.303,-0.252,0.955,large,Up in exposed,0.188,0.301,0.329,0.439,0.292,No,19
+IL20RA,Common DEG,-0.343,0.286,-0.91,large,Down in exposed,0.217,0.316,0.177,0.316,0.27,No,20
+FZD9,Hub,0.404,-0.337,0.722,medium,Up in exposed,0.298,0.398,0.247,0.395,0.187,No,32
+FZD3,Hub,0.097,-0.081,0.522,medium,Up in exposed,0.432,0.531,0.429,0.527,0.121,No,59
+FZD6,Hub,0.243,-0.203,0.414,small,Up in exposed,0.519,0.576,0.662,0.757,0.094,No,93
+ACSS1,Common DEG,-0.072,0.06,-0.376,small,Down in exposed,0.540,0.576,0.792,0.845,0.086,No,113
+DKK4,Hub,-0.08,0.067,-0.134,negligible,Down in exposed,0.830,0.830,0.931,0.931,0.054,No,879

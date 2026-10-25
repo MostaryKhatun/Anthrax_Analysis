@@ -1,0 +1,3 @@
+Cohort,Samples,Exposed,Control,Probe_sets,log2_transformed
+GSE14390,7,3,4,42904,False
+GSE12131,4,2,2,42904,True

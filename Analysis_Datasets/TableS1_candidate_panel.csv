@@ -1,0 +1,13 @@
+Gene,Set,Cohens_d_combined,P_combined,FDR_combined,logFC_GSE14390,P_GSE14390,Direction_GSE14390,logFC_GSE12131,P_GSE12131,Direction_GSE12131,Direction_concordant
+LOC101928461,Common DEG,2.251,0.004,0.030,1.991,0.003,Up in exposed,0.85,0.619,Up in exposed,Yes
+LINC00485,Common DEG,-2.188,0.005,0.030,-2.01,<0.001,Down in exposed,-0.769,0.631,Down in exposed,Yes
+LOC100506530,Common DEG,-2.115,0.015,0.036,-2.016,<0.001,Down in exposed,-0.699,0.658,Down in exposed,Yes
+WNT6,Common DEG + hub,2.068,0.011,0.036,1.326,0.003,Up in exposed,0.05,0.871,Up in exposed,Yes
+RNF128,Common DEG,2.056,0.012,0.036,1.975,<0.001,Up in exposed,0.718,0.642,Up in exposed,Yes
+VWC2,Common DEG,-1.922,0.027,0.053,-1.989,<0.001,Down in exposed,-0.571,0.730,Down in exposed,Yes
+GULP1,Common DEG,1.526,0.032,0.055,0.323,0.394,Up in exposed,1.054,0.002,Up in exposed,Yes
+CNTN4,Common DEG,1.007,0.122,0.183,1.137,0.045,Up in exposed,-0.228,0.734,Down in exposed,No
+TTC6,Common DEG,0.955,0.188,0.226,0.906,0.113,Up in exposed,-0.039,0.967,Down in exposed,No
+GATAD2A,Common DEG,-0.935,0.143,0.191,-0.396,0.403,Down in exposed,-0.72,0.392,Down in exposed,Yes
+IL20RA,Common DEG,-0.91,0.217,0.237,-1.216,0.194,Down in exposed,0.369,0.346,Up in exposed,No
+ACSS1,Common DEG,-0.376,0.540,0.540,-0.4,0.195,Down in exposed,0.325,0.283,Up in exposed,No

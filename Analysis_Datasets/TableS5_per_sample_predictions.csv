@@ -1,0 +1,12 @@
+Sample_index,Dataset,Group,LOO_probability_12gene,LOO_probability_hub,LOO_call_12gene,LOO_call_hub,Correct_12gene,Correct_hub
+1,GSE14390,Control,0.2577,0.4804,Control,Exposed,Yes,No
+2,GSE14390,Control,0.2368,0.5625,Control,Exposed,Yes,No
+3,GSE14390,Control,0.1825,0.3624,Control,Control,Yes,Yes
+4,GSE14390,Control,0.2843,0.3242,Control,Control,Yes,Yes
+5,GSE14390,Exposed,0.8235,0.4795,Exposed,Exposed,Yes,Yes
+6,GSE14390,Exposed,0.7909,0.496,Exposed,Exposed,Yes,Yes
+7,GSE14390,Exposed,0.8114,0.667,Exposed,Exposed,Yes,Yes
+8,GSE12131,Control,0.5308,0.5175,Exposed,Exposed,No,No
+9,GSE12131,Control,0.28,0.448,Control,Control,Yes,Yes
+10,GSE12131,Exposed,0.3578,0.4835,Exposed,Exposed,Yes,Yes
+11,GSE12131,Exposed,0.684,0.4802,Exposed,Exposed,Yes,Yes
