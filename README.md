@@ -68,6 +68,7 @@ LOC101928461, LINC00485, WNT6, RNF128, and LOC100506530 reached FDR < 0.05. VWC2
 
 ## Repository Structure
 
+```
 Anthrax_Analysis/
 ├── Analysis_Code/       # Scripts for preprocessing, DEG analysis, feature selection,
 │                        # validation, bootstrap, effect size/power analysis
@@ -77,6 +78,7 @@ Anthrax_Analysis/
 ├── Supplementary File/  # Supplementary tables and figures referenced in the paper
 │                        # (e.g., Tables S1–S12, Figures S1–S6)
 └── README.md
+```
 
 ## Requirements
 
@@ -108,4 +110,26 @@ NCBI GEO, NetworkAnalyst, STRING, Cytoscape (v3.10.3) with CytoHubba, Enrichr (D
 - Wide confidence intervals; many panel genes are underpowered.
 - Drug and docking results are exploratory and unvalidated.
 
+## Citation
 
+If you use this code or data, please cite:
+
+```
+Khatun M. M., et al. Anthrax-MLNet: A Hybrid Machine Learning Approach with Multi-Step
+Feature Selection for Identifying Candidate Biomarkers and Drug Targets in Anthrax.
+[Journal / Year / DOI to be added]
+```
+
+## Author
+
+**Mst. Mostary Khatun**
+Department of Information and Communication Technology, Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh
+GitHub: [@MostaryKhatun](https://github.com/MostaryKhatun)
+
+## License
+
+[Add a license, e.g., MIT] 
+
+## Contact
+
+For questions, please open an issue in this repository.
