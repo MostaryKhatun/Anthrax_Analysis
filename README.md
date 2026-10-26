@@ -68,15 +68,15 @@ LOC101928461, LINC00485, WNT6, RNF128, and LOC100506530 reached FDR < 0.05. VWC2
 
 ## Repository Structure
 
-```
 Anthrax_Analysis/
 ├── Analysis_Code/       # Scripts for preprocessing, DEG analysis, feature selection,
 │                        # validation, bootstrap, effect size/power analysis
 ├── Analysis_Datasets/   # Processed expression matrices, DEG lists, selected biomarker panel
 ├── Analysis_Figure/     # Figures generated for the manuscript (volcano, heatmap,
 │                        # stability, enrichment, PPI, ROC, bootstrap, docking)
+├── Supplementary File/  # Supplementary tables and figures referenced in the paper
+│                        # (e.g., Tables S1–S12, Figures S1–S6)
 └── README.md
-```
 
 ## Requirements
 
